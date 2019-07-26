@@ -44,8 +44,8 @@
         <category>05.架构师</category>
       </categories>
       <tags>
-        <tag>分布式</tag>
         <tag>架构师</tag>
+        <tag>分布式</tag>
       </tags>
   </entry>
   <entry>
@@ -102,12 +102,12 @@
         <category>04.分布式（微服务、队列、注册中心、负载均衡、搜索引擎等等）</category>
       </categories>
       <tags>
+        <tag>分布式</tag>
         <tag>微服务</tag>
         <tag>消息队列</tag>
         <tag>注册中心</tag>
         <tag>负载均衡</tag>
         <tag>搜索引擎</tag>
-        <tag>分布式</tag>
         <tag>java分布式</tag>
       </tags>
   </entry>
